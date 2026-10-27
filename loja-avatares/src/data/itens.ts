@@ -2,9 +2,9 @@ export const itens = [
   {
     id: '1',
     imagem: require('../../assets/Kogama1.png'),
-    nome: 'Menino',
-    descricao: 'Avatar clássico, ideal para quem está começando.',
-    preco: 480,
+    nome: 'Capitão',
+    descricao: 'Um personagem que representa uma história que, para muitos, ainda não teve o final que merecia.',
+    preco: 220,
   },
   {
     id: '2',
@@ -37,8 +37,8 @@ export const itens = [
   {
     id: '6',
     imagem: require('../../assets/Kogama6.png'),
-    nome: 'Chapeuzinho',
-    descricao: 'Clássico dos contos, com capa vermelha.',
-    preco: 1000,
+    nome: 'Chapeuzinho Ladrão',
+    descricao: 'Um vitorioso questionável e uma fama que o tempo não apaga.',
+    preco: 130,
   },
 ];
